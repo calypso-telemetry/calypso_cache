@@ -1,0 +1,13 @@
+{application, calypso_cache, [
+  {description, "Calypso ETS-cache application"},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+    kernel,
+    stdlib,
+    calypso_starter,
+    calypso_core
+  ]},
+  {mod, {calypso_cache_app, []}},
+  {env, []}
+]}.
