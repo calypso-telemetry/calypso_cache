@@ -1,5 +1,5 @@
 -module(calypso_cache_sup).
--author("begemot").
+-author("Sergey Loguntsov").
 
 -behaviour(supervisor).
 

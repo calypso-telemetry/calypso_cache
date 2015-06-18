@@ -1,5 +1,5 @@
 -module(cl_cache_server).
--author("begemot").
+-author("Sergey Loguntsov").
 
 -behaviour(gen_server).
 

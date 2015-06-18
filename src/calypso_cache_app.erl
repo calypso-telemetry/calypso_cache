@@ -1,5 +1,5 @@
 -module(calypso_cache_app).
--author("begemot").
+-author("Sergey Loguntsov").
 
 -behaviour(application).
 
